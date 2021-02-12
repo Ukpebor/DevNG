@@ -1,11 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+header {
+    height: 6vh;
+    width: 100%;
+    background-color: #172d4b;
+}
+
+nav {
+    background-color: #f7f7f7;
+    color: #495e87;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+li,
+a {
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.nav_links {
+    list-style: none;
+}
+  
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+
 body {
     background-image: url(IMG-20210209-WA0003.jpg);
 }
 
-
-a {
+.back {
     float: right;
-    text-align: right;
+    padding-right: 10px;
 }
 
 div {
