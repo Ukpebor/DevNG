@@ -13,11 +13,23 @@ nav {
     background-color: #f7f7f7;
     color: #495e87;
     font-family: 'Segoe UI', Tahoma, sans-serif;
+    height: 6vh;
+    word-spacing: 15px;
+}
+
+.first {
+    position: relative;
+    left: 10px;
+}
+
+.second {
+    position: relative;
+    left: 850px;
 }
 
 li,
 a {
-  font-size: 16px;
+  font-size: 20px;
   text-decoration: none;
 }
 
@@ -27,7 +39,7 @@ a {
   
 .nav_links li {
     display: inline-block;
-    padding: 0px 20px;
+    padding: 7px;
 }
 
 section {
