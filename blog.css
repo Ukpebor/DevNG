@@ -4,7 +4,7 @@
   }
   
 header {
-    height: 6vh;
+    height: 7vh;
     width: 100%;
     background-color: #172d4b;
 }
@@ -20,11 +20,13 @@ nav {
 .first {
     position: relative;
     left: 10px;
+    bottom: 163px;
 }
 
 .second {
     position: relative;
-    left: 850px;
+    left: 500px;
+    bottom: 163px;
 }
 
 li,
@@ -39,7 +41,19 @@ a {
   
 .nav_links li {
     display: inline-block;
-    padding-top: 7px;
+    padding: 7px;
+}
+
+.logo {
+    position: relative;
+    bottom: 10px;
+    left: 24%;
+}
+
+img {
+    width: 150px;
+    height: 180px;
+    
 }
 
 
