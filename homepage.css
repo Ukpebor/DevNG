@@ -72,3 +72,63 @@ h1 {
     text-align: center;
     top: 50px;
 }
+.all{
+   display: inline-flex;
+   justify-content: center;
+  
+}
+
+
+.intro{
+    position: relative;
+    top: 100px;
+    left: 170px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    font-size: 26px;
+    font-weight: bolder;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    background-color: white;
+        
+}
+.note1{
+    position: relative;
+    top: 60px;
+    left: 170px;
+    width:300px;
+    font-size: 18px;
+    margin: 50px;
+   
+}
+
+.aim{
+    position: relative;
+    top: 100px;
+    left: 400px;
+    border:1px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    font-size: 26px;
+    font-weight: bolder;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    background-color: white;
+    
+        
+}
+.note2{
+    position: relative;
+    top: 60px;
+    left: 400px;
+    width:300px;
+    font-size: 18px;
+    margin: 50px;
+   
+}
